@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Aeropsace Systems Design Laboratory</title>
+    <link>http://hugotesting.github.io/categories/blog/</link>
+    <description>Recent content in blog on Aeropsace Systems Design Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jun 2021 12:49:27 +0600</lastBuildDate><atom:link href="http://hugotesting.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASDL Instrumental in Kendeda Building Certification</title>
+      <link>http://hugotesting.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</link>
+      <pubDate>Thu, 03 Jun 2021 12:49:27 +0600</pubDate>
+      
+      <guid>http://hugotesting.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>ASDL PhD Student Selected for Fellowships</title>
+      <link>http://hugotesting.github.io/blog/markdown-formatting-demo/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>http://hugotesting.github.io/blog/markdown-formatting-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designers thoughts about mobile UI</title>
+      <link>http://hugotesting.github.io/blog/designers-thoughts-about-mobile-ui/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>http://hugotesting.github.io/blog/designers-thoughts-about-mobile-ui/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Things you must know as a designer</title>
+      <link>http://hugotesting.github.io/blog/things-you-must-know-as-a-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>http://hugotesting.github.io/blog/things-you-must-know-as-a-designer/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>World&#39;s Most Famous App Developers and Designers</title>
+      <link>http://hugotesting.github.io/blog/world-most-famous-app-developers-and-designers/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>http://hugotesting.github.io/blog/world-most-famous-app-developers-and-designers/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+  </channel>
+</rss>
